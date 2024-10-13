@@ -33,8 +33,8 @@ This repository is the frontend for the Real-Time Violence and Safety Violation 
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/username/RealTimeViolenceSafetyFrontend.git
-cd RealTimeViolenceSafetyFrontend
+git clone https://github.com/GauravPatil-Dev/SafeVisionAI.git
+cd SafeVisionAI
 ```
 
 ### Install Dependencies
@@ -64,7 +64,7 @@ npm install
 ## Project Structure
 
 ```bash
-RealTimeViolenceSafetyFrontend/
+SafeVisionAI/
 │
 ├── src/                    # Main source directory
 │   ├── components/         # Reusable components
